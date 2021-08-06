@@ -43,7 +43,7 @@ sections:
           *   Fair prices
           *   Code quality
 
-      - title: Brand design
+      - title: Design
         image: images/service-2.svg
         content: |-
           - Brand development
