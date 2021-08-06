@@ -22,6 +22,7 @@ sections:
     grid_items:
       - image: images/logo-1.svg
         image_alt: Logo 1
+        title: 'dasf '
       - image: images/logo-2.svg
         image_alt: Logo 2
       - image: images/logo-3.svg
