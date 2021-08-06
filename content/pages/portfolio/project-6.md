@@ -2,7 +2,7 @@
 title: Subtle
 subtitle: Brand Development
 date: '2021-02-06'
-thumb_image: images/work-photography-magazine-1-thumb.jpg
+thumb_image: /images/3d20ec95fae9923b25b53aa181711e5b.jpeg
 thumb_image_alt: Subtle preview
 sections:
   - type: image_section
